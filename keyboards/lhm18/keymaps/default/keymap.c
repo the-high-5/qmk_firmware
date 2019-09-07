@@ -15,7 +15,7 @@
  */
 #include QMK_KEYBOARD_H
 
-// Tap Dance Declerations
+// Tap Dance Declarations
 enum {
   TD_M_D = 0,
   TD_P_M = 0
