@@ -1,4 +1,4 @@
-/* Copyright 2019 MelonPan
+/* Copyright 2019 MelonPahn
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -39,5 +39,5 @@
     { K40, K41, K42, K43, K44, K45, K46, K47 }, \
     { K50, K51, K52, K53, K56, K55, K56, KC_NO }, \
     { K60, K61, K62, K63, K64, KC_NO, K66, K67 }, \
-    { K70, K71, K72, K73, KC_NO, KC_NO, K76, KC_NO }, \
+    { K70, K71, K72, K73, KC_NO, KC_NO, K76, K77 }, \
 }
